@@ -1,0 +1,272 @@
+[
+    {
+        "start_date": "2024-11-13",
+        "end_date": "2024-11-14",
+        "hotel_name": "Otel Büyük Doğu",
+        "location": "Alipasa, Erzurum - View on map",
+        "discount_state": "N/A",
+        "old_price": "N/A",
+        "final_price": "1,152 TL"
+    },
+    {
+        "start_date": "2024-11-13",
+        "end_date": "2024-11-14",
+        "hotel_name": "Dedeman Ski Lodge",
+        "location": "Osman Bektas, Erzurum - View on map",
+        "discount_state": "71% OFF TODAY",
+        "old_price": "9,164",
+        "final_price": "2,622 TL"
+    },
+    {
+        "start_date": "2024-11-13",
+        "end_date": "2024-11-14",
+        "hotel_name": "Hilton Garden Inn Erzurum",
+        "location": "Gez, Erzurum - View on map",
+        "discount_state": "19% OFF TODAY",
+        "old_price": "3,996",
+        "final_price": "3,243 TL"
+    },
+    {
+        "start_date": "2024-11-13",
+        "end_date": "2024-11-14",
+        "hotel_name": "N/A",
+        "location": "N/A",
+        "discount_state": "N/A",
+        "old_price": "N/A",
+        "final_price": "N/A N/A"
+    },
+    {
+        "start_date": "2024-11-13",
+        "end_date": "2024-11-14",
+        "hotel_name": "Hotel Kervansaray",
+        "location": "Gez, Erzurum - View on map",
+        "discount_state": "N/A",
+        "old_price": "N/A",
+        "final_price": "N/A N/A"
+    },
+    {
+        "start_date": "2024-11-13",
+        "end_date": "2024-11-14",
+        "hotel_name": "LALA GRAND HOTEL",
+        "location": "Yukari Mumcu, Erzurum - View on map",
+        "discount_state": "ONLY 1 LEFT",
+        "old_price": "2,053",
+        "final_price": "1,963 TL"
+    },
+    {
+        "start_date": "2024-11-13",
+        "end_date": "2024-11-14",
+        "hotel_name": "Ramada by Wyndham Erzurum",
+        "location": "Hüseyin Avni Ulaş Mahallesi, Erzurum - View on map",
+        "discount_state": "ONLY 4 LEFT",
+        "old_price": "3,816",
+        "final_price": "3,104 TL"
+    },
+    {
+        "start_date": "2024-11-13",
+        "end_date": "2024-11-14",
+        "hotel_name": "CAG OTEL",
+        "location": "Yukari Mumcu, Erzurum - View on map",
+        "discount_state": "ONLY 5 LEFT",
+        "old_price": "N/A",
+        "final_price": "2,375 TL"
+    },
+    {
+        "start_date": "2024-11-13",
+        "end_date": "2024-11-14",
+        "hotel_name": "Balsoy Mountain Hotel",
+        "location": "Osman Bektas, Erzurum - View on map",
+        "discount_state": "ONLY 1 LEFT",
+        "old_price": "N/A",
+        "final_price": "3,361 TL"
+    },
+    {
+        "start_date": "2024-11-13",
+        "end_date": "2024-11-14",
+        "hotel_name": "The Erzurum Hotel",
+        "location": "Osman Bektas, Erzurum - View on map",
+        "discount_state": "ONLY 1 LEFT",
+        "old_price": "4,538",
+        "final_price": "2,177 TL"
+    },
+    {
+        "start_date": "2024-11-14",
+        "end_date": "2024-11-15",
+        "hotel_name": "Otel Büyük Doğu",
+        "location": "Alipasa, Erzurum - View on map",
+        "discount_state": "N/A",
+        "old_price": "N/A",
+        "final_price": "1,172 TL"
+    },
+    {
+        "start_date": "2024-11-14",
+        "end_date": "2024-11-15",
+        "hotel_name": "Dedeman Ski Lodge",
+        "location": "Osman Bektas, Erzurum - View on map",
+        "discount_state": "71% OFF TODAY",
+        "old_price": "9,164",
+        "final_price": "2,622 TL"
+    },
+    {
+        "start_date": "2024-11-14",
+        "end_date": "2024-11-15",
+        "hotel_name": "Hilton Garden Inn Erzurum",
+        "location": "Gez, Erzurum - View on map",
+        "discount_state": "25% OFF TODAY",
+        "old_price": "3,996",
+        "final_price": "2,984 TL"
+    },
+    {
+        "start_date": "2024-11-14",
+        "end_date": "2024-11-15",
+        "hotel_name": "N/A",
+        "location": "N/A",
+        "discount_state": "N/A",
+        "old_price": "N/A",
+        "final_price": "N/A N/A"
+    },
+    {
+        "start_date": "2024-11-14",
+        "end_date": "2024-11-15",
+        "hotel_name": "Hotel Kervansaray",
+        "location": "Gez, Erzurum - View on map",
+        "discount_state": "N/A",
+        "old_price": "N/A",
+        "final_price": "N/A N/A"
+    },
+    {
+        "start_date": "2024-11-14",
+        "end_date": "2024-11-15",
+        "hotel_name": "LALA GRAND HOTEL",
+        "location": "Yukari Mumcu, Erzurum - View on map",
+        "discount_state": "ONLY 1 LEFT",
+        "old_price": "N/A",
+        "final_price": "2,046 TL"
+    },
+    {
+        "start_date": "2024-11-14",
+        "end_date": "2024-11-15",
+        "hotel_name": "Ramada by Wyndham Erzurum",
+        "location": "Hüseyin Avni Ulaş Mahallesi, Erzurum - View on map",
+        "discount_state": "ONLY 4 LEFT",
+        "old_price": "3,816",
+        "final_price": "2,940 TL"
+    },
+    {
+        "start_date": "2024-11-14",
+        "end_date": "2024-11-15",
+        "hotel_name": "CAG OTEL",
+        "location": "Yukari Mumcu, Erzurum - View on map",
+        "discount_state": "ONLY 5 LEFT",
+        "old_price": "N/A",
+        "final_price": "2,288 TL"
+    },
+    {
+        "start_date": "2024-11-14",
+        "end_date": "2024-11-15",
+        "hotel_name": "Balsoy Mountain Hotel",
+        "location": "Osman Bektas, Erzurum - View on map",
+        "discount_state": "ONLY 1 LEFT",
+        "old_price": "N/A",
+        "final_price": "3,361 TL"
+    },
+    {
+        "start_date": "2024-11-14",
+        "end_date": "2024-11-15",
+        "hotel_name": "The Erzurum Hotel",
+        "location": "Osman Bektas, Erzurum - View on map",
+        "discount_state": "ONLY 1 LEFT",
+        "old_price": "4,538",
+        "final_price": "2,177 TL"
+    },
+    {
+        "start_date": "2024-11-15",
+        "end_date": "2024-11-16",
+        "hotel_name": "Otel Büyük Doğu",
+        "location": "Alipasa, Erzurum - View on map",
+        "discount_state": "N/A",
+        "old_price": "N/A",
+        "final_price": "1,152 TL"
+    },
+    {
+        "start_date": "2024-11-15",
+        "end_date": "2024-11-16",
+        "hotel_name": "Dedeman Ski Lodge",
+        "location": "Osman Bektas, Erzurum - View on map",
+        "discount_state": "71% OFF TODAY",
+        "old_price": "9,164",
+        "final_price": "2,622 TL"
+    },
+    {
+        "start_date": "2024-11-15",
+        "end_date": "2024-11-16",
+        "hotel_name": "Hilton Garden Inn Erzurum",
+        "location": "Gez, Erzurum - View on map",
+        "discount_state": "25% OFF TODAY",
+        "old_price": "3,996",
+        "final_price": "2,984 TL"
+    },
+    {
+        "start_date": "2024-11-15",
+        "end_date": "2024-11-16",
+        "hotel_name": "N/A",
+        "location": "N/A",
+        "discount_state": "N/A",
+        "old_price": "N/A",
+        "final_price": "N/A N/A"
+    },
+    {
+        "start_date": "2024-11-15",
+        "end_date": "2024-11-16",
+        "hotel_name": "Hotel Kervansaray",
+        "location": "Gez, Erzurum - View on map",
+        "discount_state": "N/A",
+        "old_price": "N/A",
+        "final_price": "N/A N/A"
+    },
+    {
+        "start_date": "2024-11-15",
+        "end_date": "2024-11-16",
+        "hotel_name": "LALA GRAND HOTEL",
+        "location": "Yukari Mumcu, Erzurum - View on map",
+        "discount_state": "ONLY 1 LEFT",
+        "old_price": "N/A",
+        "final_price": "2,126 TL"
+    },
+    {
+        "start_date": "2024-11-15",
+        "end_date": "2024-11-16",
+        "hotel_name": "Ramada by Wyndham Erzurum",
+        "location": "Hüseyin Avni Ulaş Mahallesi, Erzurum - View on map",
+        "discount_state": "ONLY 5 LEFT",
+        "old_price": "3,816",
+        "final_price": "2,940 TL"
+    },
+    {
+        "start_date": "2024-11-15",
+        "end_date": "2024-11-16",
+        "hotel_name": "CAG OTEL",
+        "location": "Yukari Mumcu, Erzurum - View on map",
+        "discount_state": "ONLY 5 LEFT",
+        "old_price": "N/A",
+        "final_price": "2,178 TL"
+    },
+    {
+        "start_date": "2024-11-15",
+        "end_date": "2024-11-16",
+        "hotel_name": "The Erzurum Hotel",
+        "location": "Osman Bektas, Erzurum - View on map",
+        "discount_state": "ONLY 1 LEFT",
+        "old_price": "4,538",
+        "final_price": "2,177 TL"
+    },
+    {
+        "start_date": "2024-11-15",
+        "end_date": "2024-11-16",
+        "hotel_name": "Balsoy Mountain Hotel",
+        "location": "Osman Bektas, Erzurum - View on map",
+        "discount_state": "ONLY 1 LEFT",
+        "old_price": "N/A",
+        "final_price": "3,361 TL"
+    }
+]
