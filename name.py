@@ -35,6 +35,7 @@ def set_location_and_dates(driver, location, check_in_date, check_out_date):
             EC.presence_of_element_located((By.ID, "textInput"))
         )
         location_box.click()
+        time.sleep(2)
         location_box.clear()
         location_box.send_keys(location)
         time.sleep(2)
